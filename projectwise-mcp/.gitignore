@@ -5,3 +5,5 @@ dist/
 .DS_Store
 token.json
 login/token.json
+.playwright-mcp/
+.vscode/
